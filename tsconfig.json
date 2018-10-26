@@ -3,7 +3,7 @@
         "lib": [
             "esnext"
         ],
-        "target": "es6",
+        "target": "es2015",
         "module": "commonjs"
     },
     "compileOnSave": false,
